@@ -16,3 +16,7 @@ Or:
 ```
   npm i && npm run start
 ```
+
+You will then be able to play with the component on http://localhost:8080
+
+Happy dragging and dropping :)
